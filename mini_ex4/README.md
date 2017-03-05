@@ -1,6 +1,8 @@
 <h2>You Have A Standpoint Until You Take A New One</h2>
 ![screenshot](https://rikkewolf.github.io/Mini_exercises/mini_ex4/assets/screenshot.png)
 
+https://rikkewolf.github.io/Mini_exercises/mini_ex4/
+
 <h3>Description</h3>
 My program consists of different stages we go through when taking a new standpoint in life. 
 The stages are called to the screen by pressing the appointed keys as shown. 

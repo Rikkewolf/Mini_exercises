@@ -1,7 +1,7 @@
 <h2> Frustration </h2>
 ![screenshot](https://rikkewolf.github.io/Mini_exercises/mini_ex5/Screen_Shot%20.png)
 
-https://rikkewolf.github.io/Mini_exercises/mini_ex5/Screen_Shot%20.png
+https://rikkewolf.github.io/Mini_exercises/mini_ex5/
 
 <b>Description</b>
 

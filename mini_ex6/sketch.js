@@ -9,15 +9,15 @@ var statust = "up";
 var c = 0;
 var statusc = "up";
 
-function preload() {
-relax = loadSound ('https://rikkewolf.github.io/Mini_exercises/mini_ex6/assets/relax.mp3');
-}
+//function preload() {
+//relax = loadSound ('https://rikkewolf.github.io/Mini_exercises/mini_ex6/assets/relax.mp3');
+//}
 
 function setup() {
  createCanvas(windowWidth, windowHeight);   
  noFill();
  colorMode(HSB);
- relax.play();
+ //relax.play();
 
 }
 

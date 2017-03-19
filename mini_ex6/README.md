@@ -3,7 +3,7 @@
 <img src="https://rikkewolf.github.io/Mini_exercises/mini_ex6/assets/sceensoul.png" alt="" />
 
 <h3>Careful with the volume -
-<a href="rikkewolf.github.io/Mini_exercises/mini_ex6/">ReLaX</a>
+<a href="http://rikkewolf.github.io/Mini_exercises/mini_ex6/">ReLaX</a>
 </h3>
 
 <h3> Rules of the program </h3>
@@ -21,5 +21,5 @@ RaLaX may seem a little chaotic at the very first glance but operates on a stric
 <h3> Bonus </h3>
 In this bonus program: A simpel madala generator (which actually was my original idea) you can see the different shapes used for ReLaX
 
-<a href="rikkewolf.github.io/Mini_exercises/mini_ex6_bonus">ReLaX BoNuS</a>
+<a href="http://rikkewolf.github.io/Mini_exercises/mini_ex6_bonus">ReLaX BoNuS</a>
 

@@ -10,7 +10,7 @@ var c = 0;
 var statusc = "up";
 
 function preload() {
-relax = loadSound ('https://rikkewolf.github.io/Mini_exercises/mini_ex6/assets/relax.mp3');
+relax = loadSound ('https://rikkewolf.github.io/Mini_exercises/mini_ex6/assets/relax.mp3'); // True by Uppermost: https://soundcloud.com/uppermost
 }
 
 function setup() {

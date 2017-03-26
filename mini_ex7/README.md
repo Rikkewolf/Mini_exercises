@@ -2,9 +2,12 @@
 
 <img src="https://rikkewolf.github.io/Mini_exercises/mini_ex7/Hello.png" alt="" />
 
-<h3>Careful with the volume -
+<h3>
 <a href="http://rikkewolf.github.io/Mini_exercises/mini_ex7/">Hello</a>
 </h3>
+
+<h3>Description </h3>
+It's pretty straight forward - Please press buttons.
 
 <h3>Discussion </h3>
 Objects are very good way to organise code. It’s like make a character sheet for all the things you want on the screen. 

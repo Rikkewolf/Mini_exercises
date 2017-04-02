@@ -13,7 +13,7 @@ I selected Coding Challenge #6: Mitosis simulator:
 <h3>Added function/syntax </h3>
 I tried making the cells bigger again if they became smaller than a certain size but couldn’t get it to work right away so instead 
 I added a preload function that adds an image as a backdrop and 
-changed the colors to be random with every added cell to change the theme of the program from a mitosis to a galaxy generator. 
+changed the colors to be random with every added cell to change the theme of the program from a mitosis simulator to a galaxy generator. 
 
 <h3>difficulty with the exercise</h3>
 Finding a coding challenge that is not too easy or too hard for the level we’re working on.
@@ -23,7 +23,7 @@ This exercise in particular requires that we try and really do something to the 
 and get something out of it and I was just a lazy bum with my modifications.
 Had I chosen a more complex challenge I could have run into the problem of not understanding all the code a thereby not being able to really make any modifications. 
 
-<h3Communicating with Flowcharts</h3>
+<h3>Communicating with Flowcharts</h3>
 Flowcharts are great to visualize the processes a program has to go through. 
 In the planning of a complex program they are great at giving an overview of the whole program 
 and then each step can be divided into flowcharts as well to give an idea of what has to be done. 

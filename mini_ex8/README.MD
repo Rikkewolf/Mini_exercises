@@ -15,7 +15,7 @@ I tried making the cells bigger again if they became smaller than a certain size
 I added a preload function that adds an image as a backdrop and 
 changed the colors to be random with every added cell to change the theme of the program from a mitosis simulator to a galaxy generator. 
 
-<h3>difficulty with the exercise</h3>
+<h3>Difficulty with the exercise</h3>
 Finding a coding challenge that is not too easy or too hard for the level we’re working on.
 Honestly the one I choose was purposely too easy for me, because it had no challenge for me and was too simple to make a flowchart over. 
 I knew it was too simple but was honestly too lazy this week to really challenge myself. 

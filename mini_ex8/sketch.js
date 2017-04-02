@@ -1,9 +1,11 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/jxGS3fKPKJA
+//Original source code by Daniel Shiffman for https://youtu.be/jxGS3fKPKJA
 
+var img; 
 var cells = [];
+
+function preload() {
+  img = loadImage("https://rikkewolf.github.io/Mini_exercises/mini_ex8/backdrop.jpg");
+}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -23,7 +25,7 @@ function setup() {
 }
 
 function draw() {
- background(0);
+ image(img, 0, 0);
  for (var i = 0; i < cells.length; i++) {
    cells[i].move();
    cells[i].show();

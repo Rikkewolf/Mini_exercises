@@ -6,6 +6,8 @@
 <a href="http://rikkewolf.github.io/Mini_exercises/mini_ex8/">Galaxy Generator</a>
 </h3>
 
+<img src="https://rikkewolf.github.io/Mini_exercises/mini_ex8/home.png" alt="" />
+
 <h3>Coding Challenge </h3>
 I selected Coding Challenge #6: Mitosis simulator: 
 <a href="https://www.youtube.com/watch?v=jxGS3fKPKJA">Mitosis simulator</a>

@@ -7,6 +7,7 @@
 </h3>
 
 <img src="https://rikkewolf.github.io/Mini_exercises/mini_ex8/home.png" alt="" />
+There a small mistake in it, i didn't notice untill now: when connecting between the "check..." and the "nothing happens", it's supposed to say "outside of cell"
 
 <h3>Coding Challenge </h3>
 I selected Coding Challenge #6: Mitosis simulator: 

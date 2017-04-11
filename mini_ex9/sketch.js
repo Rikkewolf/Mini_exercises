@@ -15,7 +15,7 @@ console.log(mouseX, mouseY);
 }
 
 function draw() {
-
+fill(255, 0, 0,);
 ellipse(602, 40, 10, 10);
 ellipse(115, 160, 10, 10);
 ellipse(290, 350, 10, 10);
